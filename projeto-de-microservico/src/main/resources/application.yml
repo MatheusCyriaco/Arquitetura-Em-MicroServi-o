@@ -1,0 +1,9 @@
+
+spring:
+
+  application:
+    name: projeto-de-microsservico
+
+  cloud:
+    config:
+      url: http://localhost:8888
